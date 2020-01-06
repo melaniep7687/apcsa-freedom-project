@@ -10,6 +10,8 @@ My partner and I are still in the planing phase. We want to be able to learn wha
 Here they are:
 ![projectideas](projectideas.png)
 
+We are continuing to use the app code Swift to learn on our phones. We have been taking notes on what we learn so we would also have a reference guide in the future when making our project. 
+![notes](notes.png)
 
 
 
